@@ -45,21 +45,21 @@ This script provides a terminal-based menu that allows you to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/python-linux-project.git
-cd python-linux-project
+git clone https://github.com/elhamhassan90/Python-Linux-project.git
+cd Python-Linux-project
 ```
 
 
 ### 2. Make the script executable
 
 ```
-chmod +x manage.py
+chmod +x Python_Project.py
 ```
 
 ### 3. Run the script
 
 ```
-sudo ./manage.py
+sudo ./Python_Project.py
 ```
 
 ## 👩‍💻 Author
